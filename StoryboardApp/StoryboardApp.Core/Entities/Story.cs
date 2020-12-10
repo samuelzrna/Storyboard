@@ -9,6 +9,7 @@ namespace StoryboardApp.Core.Entities
     {
         public int Id { get; set; }
         public string Creator { get; set; }
+        public string Title { get; set; }
         public string Assignee { get; set; }
         public string AcceptanceCriteria { get; set; }
         public string Description { get; set; }

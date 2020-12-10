@@ -1,11 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "atIt9tKu7tmNxCkMtFL5eeVuhAjNQWN/L/gRRupzT2mR/iheOXlVB9xsdCpv/qWiYJ1XTUjKcSvysGVlTGbafg==",
+  "dgSpecHash": "UP6Orpk8TYyVLsFlQAjoIs0GpZdN3Wh9X0NiiifIUiUZbgC3iK20LuHEP/nY5zfRFc1jhyssfMb0NGroW0WdPg==",
   "success": true,
-  "projectFilePath": "D:\\VS Projects\\Storyboard\\StoryboardApp\\StoryboardApp.Core\\StoryboardApp.Core.csproj",
+  "projectFilePath": "C:\\Tutorials\\Storyboard\\StoryboardApp\\StoryboardApp.Core\\StoryboardApp.Core.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\samue\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
-    "C:\\Users\\samue\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+    "C:\\Users\\Indep\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Indep\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
   ],
   "logs": []
 }

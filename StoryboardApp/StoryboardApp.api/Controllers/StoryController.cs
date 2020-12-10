@@ -27,7 +27,7 @@ namespace StoryboardApp.api.Controllers
             return await Mediator.Send(new GetAllStoriesQuery());
         }
 
-        [HttpGet("/{id}")]
+        [HttpGet("{id}")]
         public async Task<ActionResult<StoryDto>> Get(int id)
         {
             return await Mediator.Send(new GetStoryByIdQuery { Id = id });
@@ -40,9 +40,9 @@ namespace StoryboardApp.api.Controllers
         }
 
         [HttpDelete]
-        public async Task<ActionResult<int>> Delete(int id)
+        public async Task<ActionResult<int>> Delete(DeleteStoryCommand command)
         {
-            return await Mediator.Send(new DeleteStoryCommand { Id = id });
+            return await Mediator.Send(command);
         }
     }
 }

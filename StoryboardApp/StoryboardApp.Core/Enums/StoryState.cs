@@ -6,8 +6,8 @@ namespace StoryboardApp.Core.Enums
 {
     public enum StoryState
     {
-        Todo,
-        Doing,
-        Done
+        Todo = 1,
+        Doing = 2,
+        Done = 3
     }
 }

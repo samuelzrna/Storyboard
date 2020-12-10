@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\VS Projects\\Storyboard\\StoryboardApp\\StoryboardApp.Core\\StoryboardApp.Core.csproj": {}
+    "C:\\Tutorials\\Storyboard\\StoryboardApp\\StoryboardApp.Core\\StoryboardApp.Core.csproj": {}
   },
   "projects": {
-    "D:\\VS Projects\\Storyboard\\StoryboardApp\\StoryboardApp.Core\\StoryboardApp.Core.csproj": {
+    "C:\\Tutorials\\Storyboard\\StoryboardApp\\StoryboardApp.Core\\StoryboardApp.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\VS Projects\\Storyboard\\StoryboardApp\\StoryboardApp.Core\\StoryboardApp.Core.csproj",
+        "projectUniqueName": "C:\\Tutorials\\Storyboard\\StoryboardApp\\StoryboardApp.Core\\StoryboardApp.Core.csproj",
         "projectName": "StoryboardApp.Core",
-        "projectPath": "D:\\VS Projects\\Storyboard\\StoryboardApp\\StoryboardApp.Core\\StoryboardApp.Core.csproj",
-        "packagesPath": "C:\\Users\\samue\\.nuget\\packages\\",
-        "outputPath": "D:\\VS Projects\\Storyboard\\StoryboardApp\\StoryboardApp.Core\\obj\\",
+        "projectPath": "C:\\Tutorials\\Storyboard\\StoryboardApp\\StoryboardApp.Core\\StoryboardApp.Core.csproj",
+        "packagesPath": "C:\\Users\\Indep\\.nuget\\packages\\",
+        "outputPath": "C:\\Tutorials\\Storyboard\\StoryboardApp\\StoryboardApp.Core\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\samue\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Indep\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -57,7 +57,7 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     }

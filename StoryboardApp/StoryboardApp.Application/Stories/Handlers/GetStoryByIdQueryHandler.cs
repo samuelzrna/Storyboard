@@ -11,7 +11,7 @@ using System.Threading.Tasks;
 
 namespace StoryboardApp.Application.Stories.Handlers
 {
-    class GetStoryByIdQueryHandler : IRequestHandler<GetStoryByIdQuery, StoryDto>
+    public class GetStoryByIdQueryHandler : IRequestHandler<GetStoryByIdQuery, StoryDto>
     {
         private readonly IUnitOfWork _unitOfWork;
         private readonly IMapper _mapper;

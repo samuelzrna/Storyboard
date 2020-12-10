@@ -12,3 +12,17 @@ D:\VS Projects\Storyboard\StoryboardApp\StoryboardApp.Infrastructure\obj\Debug\n
 D:\VS Projects\Storyboard\StoryboardApp\StoryboardApp.Infrastructure\obj\Debug\netstandard2.0\StoryboardApp.Infrastructure.csproj.CopyComplete
 D:\VS Projects\Storyboard\StoryboardApp\StoryboardApp.Infrastructure\obj\Debug\netstandard2.0\StoryboardApp.Infrastructure.dll
 D:\VS Projects\Storyboard\StoryboardApp\StoryboardApp.Infrastructure\obj\Debug\netstandard2.0\StoryboardApp.Infrastructure.pdb
+C:\Tutorials\Storyboard\StoryboardApp\StoryboardApp.Infrastructure\bin\Debug\netstandard2.0\StoryboardApp.Infrastructure.deps.json
+C:\Tutorials\Storyboard\StoryboardApp\StoryboardApp.Infrastructure\bin\Debug\netstandard2.0\StoryboardApp.Infrastructure.dll
+C:\Tutorials\Storyboard\StoryboardApp\StoryboardApp.Infrastructure\bin\Debug\netstandard2.0\StoryboardApp.Infrastructure.pdb
+C:\Tutorials\Storyboard\StoryboardApp\StoryboardApp.Infrastructure\bin\Debug\netstandard2.0\StoryboardApp.Application.dll
+C:\Tutorials\Storyboard\StoryboardApp\StoryboardApp.Infrastructure\bin\Debug\netstandard2.0\StoryboardApp.Core.dll
+C:\Tutorials\Storyboard\StoryboardApp\StoryboardApp.Infrastructure\bin\Debug\netstandard2.0\StoryboardApp.Application.pdb
+C:\Tutorials\Storyboard\StoryboardApp\StoryboardApp.Infrastructure\bin\Debug\netstandard2.0\StoryboardApp.Core.pdb
+C:\Tutorials\Storyboard\StoryboardApp\StoryboardApp.Infrastructure\obj\Debug\netstandard2.0\StoryboardApp.Infrastructure.csprojAssemblyReference.cache
+C:\Tutorials\Storyboard\StoryboardApp\StoryboardApp.Infrastructure\obj\Debug\netstandard2.0\StoryboardApp.Infrastructure.AssemblyInfoInputs.cache
+C:\Tutorials\Storyboard\StoryboardApp\StoryboardApp.Infrastructure\obj\Debug\netstandard2.0\StoryboardApp.Infrastructure.AssemblyInfo.cs
+C:\Tutorials\Storyboard\StoryboardApp\StoryboardApp.Infrastructure\obj\Debug\netstandard2.0\StoryboardApp.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Tutorials\Storyboard\StoryboardApp\StoryboardApp.Infrastructure\obj\Debug\netstandard2.0\StoryboardApp.Infrastructure.csproj.CopyComplete
+C:\Tutorials\Storyboard\StoryboardApp\StoryboardApp.Infrastructure\obj\Debug\netstandard2.0\StoryboardApp.Infrastructure.dll
+C:\Tutorials\Storyboard\StoryboardApp\StoryboardApp.Infrastructure\obj\Debug\netstandard2.0\StoryboardApp.Infrastructure.pdb

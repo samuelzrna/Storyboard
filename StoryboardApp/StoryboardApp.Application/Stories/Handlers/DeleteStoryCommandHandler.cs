@@ -6,11 +6,11 @@ using System.Threading.Tasks;
 
 namespace StoryboardApp.Application.Stories.Handlers
 {
-    public class DeleteStoryCommanHandler : IRequestHandler<DeleteStoryCommand, int>
+    public class DeleteStoryCommandHandler : IRequestHandler<DeleteStoryCommand, int>
     {
         private readonly IUnitOfWork _unitOfWork;
 
-        public DeleteStoryCommanHandler(IUnitOfWork unitOfWork)
+        public DeleteStoryCommandHandler(IUnitOfWork unitOfWork)
         {
             _unitOfWork = unitOfWork;
         }

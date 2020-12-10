@@ -7,3 +7,12 @@ D:\VS Projects\Storyboard\StoryboardApp\StoryboardApp.Core\obj\Debug\netstandard
 D:\VS Projects\Storyboard\StoryboardApp\StoryboardApp.Core\obj\Debug\netstandard2.0\StoryboardApp.Core.csproj.CoreCompileInputs.cache
 D:\VS Projects\Storyboard\StoryboardApp\StoryboardApp.Core\obj\Debug\netstandard2.0\StoryboardApp.Core.dll
 D:\VS Projects\Storyboard\StoryboardApp\StoryboardApp.Core\obj\Debug\netstandard2.0\StoryboardApp.Core.pdb
+C:\Tutorials\Storyboard\StoryboardApp\StoryboardApp.Core\bin\Debug\netstandard2.0\StoryboardApp.Core.deps.json
+C:\Tutorials\Storyboard\StoryboardApp\StoryboardApp.Core\bin\Debug\netstandard2.0\StoryboardApp.Core.dll
+C:\Tutorials\Storyboard\StoryboardApp\StoryboardApp.Core\bin\Debug\netstandard2.0\StoryboardApp.Core.pdb
+C:\Tutorials\Storyboard\StoryboardApp\StoryboardApp.Core\obj\Debug\netstandard2.0\StoryboardApp.Core.csprojAssemblyReference.cache
+C:\Tutorials\Storyboard\StoryboardApp\StoryboardApp.Core\obj\Debug\netstandard2.0\StoryboardApp.Core.AssemblyInfoInputs.cache
+C:\Tutorials\Storyboard\StoryboardApp\StoryboardApp.Core\obj\Debug\netstandard2.0\StoryboardApp.Core.AssemblyInfo.cs
+C:\Tutorials\Storyboard\StoryboardApp\StoryboardApp.Core\obj\Debug\netstandard2.0\StoryboardApp.Core.csproj.CoreCompileInputs.cache
+C:\Tutorials\Storyboard\StoryboardApp\StoryboardApp.Core\obj\Debug\netstandard2.0\StoryboardApp.Core.dll
+C:\Tutorials\Storyboard\StoryboardApp\StoryboardApp.Core\obj\Debug\netstandard2.0\StoryboardApp.Core.pdb

@@ -19,7 +19,8 @@ namespace TaskManagementApp.Application.Tasks.Handlers
         }
         public async Task<int> Handle(CreateStoryCommand request, CancellationToken cancellationToken)
         {
-            var result = await _unitOfWork.Stories.Add(_mapper.Map<StoryboardApp.Core.Entities.Story>(request));
+            var storyEntity = _mapper.Map<StoryboardApp.Core.Entities.Story>(request);
+            var result = await _unitOfWork.Stories.Add(storyEntity);
             return result;
         }
     }

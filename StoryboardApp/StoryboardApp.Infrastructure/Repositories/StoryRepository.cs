@@ -22,7 +22,7 @@ namespace StoryboardApp.Infrastructure.Repositories
         public async Task<int> Add(Story entity)
         {
             entity.DateCreated = DateTime.Now;
-            var sql = "INSERT INTO Story (Creator, Assignee, AcceptanceCriteria, Description, StoryState, DateCreated) Values (@Creator, @Assignee, @AcceptanceCriteria, @Description, @StoryState, @DateCreated);";
+            var sql = "INSERT INTO Story (Creator, Title, Assignee, AcceptanceCriteria, Description, StoryState, DateCreated) Values (@Creator, @Title, @Assignee, @AcceptanceCriteria, @Description, @StoryState, @DateCreated);";
             using (var connection = new SqlConnection(_configuration.GetConnectionString("DefaultConnection")))
             {
                 connection.Open();
@@ -37,8 +37,8 @@ namespace StoryboardApp.Infrastructure.Repositories
             using (var connection = new SqlConnection(_configuration.GetConnectionString("DefaultConnection")))
             {
                 connection.Open();
-                var affectedRow = await connection.ExecuteAsync(sql, new { Id = id});
-                return affectedRow;
+                var affectedRows = await connection.ExecuteAsync(sql, new { Id = id });
+                return affectedRows;
             }
         }
 
@@ -67,7 +67,7 @@ namespace StoryboardApp.Infrastructure.Repositories
         public async Task<int> Update(Story entity)
         {
             entity.DateModified = DateTime.Now;
-            var sql = "UPDATE Story SET Creator = @Creator, Assignee = @Assignee, AcceptanceCriteria = @AcceptanceCriteria, Description = @Description, StoryState = @StoryState, DateModified = @DateModified WHERE Id = @Id;";
+            var sql = "UPDATE Story SET Creator = @Creator, Title = @Title, Assignee = @Assignee, AcceptanceCriteria = @AcceptanceCriteria, Description = @Description, StoryState = @StoryState, DateModified = @DateModified WHERE Id = @Id;";
             using (var connection = new SqlConnection(_configuration.GetConnectionString("DefaultConnection")))
             {
                 connection.Open();
